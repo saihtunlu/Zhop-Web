@@ -1,0 +1,11 @@
+{
+  "message": "hello!",
+  "login": "Sign In",
+  "logout": "Sign Out",
+  "register": "Sign Up",
+  "my-account": "My Account",
+  "home": "Home",
+  "shop": "Shop",
+  "explore": "Explore",
+  "help": "Need Help"
+}
